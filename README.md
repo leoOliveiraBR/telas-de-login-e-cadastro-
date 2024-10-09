@@ -1,13 +1,13 @@
 # 🚀 Sejam todos bem-vindos ao meu repositório de login e cadastro do projeto xô bagunça
 
 ## Índice
-- [Conexão de Banco de Dados](#conex%C3%A3o-de-banco-de-dados)
+- [telas do site](#-telas-do-site)
 - [Descrição](#descri%C3%A7%C3%A3o)
 - [Introdução](#introdu%C3%A7%C3%A3o)
 - [Funcionalidades](#funcionalidades)
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Fontes Consultadas](#fontes-consultadas)
-- [Autores](#autores)
+- [Estrutura do projeto](#-estrutura-do-projeto)
+- [Tecnologias Utilizadas](e#-tecnologias-utilizadas)
+- [autores](#%EF%B8%8F-autores)
 
 # 💾 telas do site 
 
@@ -31,8 +31,7 @@ nesse repositorio você vera o codigo e as interações que eles tem com a tela
 - `conexao.php`: Arquivo de configuração da conexão com o banco de dados.
 - `salvarCAD.php`: salvar cadastro do ususario.
 - `check_email.php`: verifica se o email ja eixste para impedir email duplicado no banco de dados.
-- `verifica_email.php`: verifica se email e senha está corrto para o usuario entrar no site novamente.
-  
+- 
 ## 📌 Tecnologias Utilizadas
 - HTML5    
 - CSS3   
@@ -40,3 +39,4 @@ nesse repositorio você vera o codigo e as interações que eles tem com a tela
 
 ## ✒️ Autores
 [Leonardo De Oliveira](https://github.com/leoOliveiraBR)  
+
