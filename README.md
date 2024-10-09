@@ -9,8 +9,11 @@
 - [Fontes Consultadas](#fontes-consultadas)
 - [Autores](#autores)
 
-# 💾 tela de cadastro e login
+# 💾 telas do site 
+
+cadastro
 <img src="img/cadastro.png" width="40%">
+login
 <img src="img/login.png" width="40%">
 
 ## ✅ Descrição
