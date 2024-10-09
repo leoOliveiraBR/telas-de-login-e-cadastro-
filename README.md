@@ -11,10 +11,10 @@
 
 # 💾 telas do site 
 
-cadastro  
+`CADASTRO`  
 <img src="img/cadastro.png" width="40%">
 
-login  
+`LOGIN`  
 <img src="img/login.png" width="40%">
 
 ## ✅ Descrição
