@@ -11,9 +11,10 @@
 
 # 💾 telas do site 
 
-cadastro
+cadastro  
 <img src="img/cadastro.png" width="40%">
-login
+
+login  
 <img src="img/login.png" width="40%">
 
 ## ✅ Descrição
