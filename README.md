@@ -9,9 +9,9 @@
 - [Fontes Consultadas](#fontes-consultadas)
 - [Autores](#autores)
 
-# 💾 tela de login e cadastro
-<img src="img/tabela.png" width="40%">
-<img src="img/tabela.png" width="40%">
+# 💾 tela de cadastro e login
+<img src="img/cadastro.png" width="40%">
+<img src="img/login.png" width="40%">
 
 ## ✅ Descrição
 Este código foi desenvolvido para demonstrar a configuração e utilização de uma conexão de banco de dados MySQL utilizando PHP. Ele faz parte do projeto CadCommerce.
