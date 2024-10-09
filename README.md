@@ -31,14 +31,12 @@ nesse repositorio você vera o codigo e as interações que eles tem com a tela
 - `conexao.php`: Arquivo de configuração da conexão com o banco de dados.
 - `salvarCAD.php`: salvar cadastro do ususario.
 - `check_email.php`: verifica se o email ja eixste para impedir email duplicado no banco de dados.
-- 
+- `verifica_email.php`: verifica se email e senha está corrto para o usuario entrar no site novamente.
+  
 ## 📌 Tecnologias Utilizadas
 - HTML5    
 - CSS3   
 - PHP 8.1   
-
-# 📝 Métodos PHP Utilizados
-
 
 ## ✒️ Autores
 [Leonardo De Oliveira](https://github.com/leoOliveiraBR)  
